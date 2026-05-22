@@ -2,7 +2,7 @@
 
 Hi,
  
-I'm Nikhil, a passionate software engineer committed to solving problems through clean, efficient, and modern development practices. With a strong foundation in Java and the MERN stack, I focus on building scalable, user-friendly, and impactful software solutions. I am continuously expanding my technical knowledge and staying updated with emerging technologies.
+I'm Nikhil Kumar , a passionate software engineer committed to solving problems through clean, efficient, and modern development practices. With a strong foundation in Java and the MERN stack, I focus on building scalable, user-friendly, and impactful software solutions. I am continuously expanding my technical knowledge and staying updated with emerging technologies.
  
 Technical Stack
  
