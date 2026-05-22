@@ -1,6 +1,21 @@
 # 💫 About Me:
-Hi, I’m Nikhil!<br>I am a B.Tech Computer Science Engineering (CSE) student (Batch of 2027) with a strong passion for<br> Full Stack Development.<br>I specialize in the MERN Stack (MongoDB, Express.js, React.js, Node.js) and have a solid foundation in<br> Data Structures and Algorithms using Java.<br>I enjoy building scalable web applications and continuously improving my problem-solving skills.<br><br>Apart from technology, I enjoy playing cricket and listening to music, which help me stay active, focused, and creative.
 
+Hi,
+ 
+I'm Nikhil, a passionate software engineer committed to solving problems through clean, efficient, and modern development practices. With a strong foundation in Java and the MERN stack, I focus on building scalable, user-friendly, and impactful software solutions. I am continuously expanding my technical knowledge and staying updated with emerging technologies.
+ 
+Technical Stack
+ 
+Languages: Java, Python, C 
+Web Technologies: HTML, CSS, JavaScript, React.js, Node.js 
+Frameworks: Express.js 
+Databases: MySQL, MongoDB 
+ 
+Currently, I am focused on strengthening my full-stack development skills and exploring machine learning applications that solve real-world problems. I continuously seek opportunities that enhance my technical expertise and help me grow as a developer.
+ 
+I am actively looking for internships and entry-level opportunities where I can apply my software development and problem-solving skills to real-world projects while learning from experienced teams.
+ 
+Outside of tech, I enjoy playing cricket.
 
 ## 🌐 Socials:
 [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/nikhillyadavvvv) [![X](https://img.shields.io/badge/X-black.svg?logo=X&logoColor=white)](https://x.com/yadavnikhil__) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:nikhilk9226@gmail.com) 
